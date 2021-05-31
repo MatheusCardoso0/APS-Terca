@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="APS_Terca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/APS Terca/dist/APS_Terca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,1 +1,1 @@
-# APS-Terca
+@author

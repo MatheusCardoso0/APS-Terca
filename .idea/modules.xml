@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APS Terca/APS Terca.iml" filepath="$PROJECT_DIR$/APS Terca/APS Terca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/APS-Terca.iml" filepath="$PROJECT_DIR$/.idea/APS-Terca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APS Terca/jcalendar-1.4/jcalendar-1.4.iml" filepath="$PROJECT_DIR$/APS Terca/jcalendar-1.4/jcalendar-1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APS Terca/mysql-connector-java-5.1.18/mysql-connector-java-5.1.18.iml" filepath="$PROJECT_DIR$/APS Terca/mysql-connector-java-5.1.18/mysql-connector-java-5.1.18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APS Terca/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.iml" filepath="$PROJECT_DIR$/APS Terca/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.iml" />
+    </modules>
+  </component>
+</project>
