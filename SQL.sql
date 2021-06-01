@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `logins` (
 
 INSERT INTO `logins` (`Nome`, `Login`, `Senha`) VALUES
 ('Adm', 'admin', '1234'),
-('Matheus', 'matheus', '1001');
+('Matheus', 'matheus', '1804');
 
 -- --------------------------------------------------------
 
